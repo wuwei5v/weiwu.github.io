@@ -17,6 +17,11 @@ I am a Ph.D. Student in Construction Management Technology at [Purdue University
 * BIM-enabled VR environments for construction visualization
 * Prevention through Advanced Immersive Technologies Design (PtATD)
 
+<<<<<<< HEAD
+=======
+
+
+>>>>>>> fff6c209fce93639132027be2f7918cb2c971f70
 # 🔥 News
 - *2025.11*: &nbsp;🎉 Best Paper Award at IEEE ICIR 2025
 - *2025.08*: &nbsp;Graduate Scholars Grant 2025 from Illinois-Indiana Sea Grant (IISG)
