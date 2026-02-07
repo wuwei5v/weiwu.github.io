@@ -19,11 +19,15 @@ I am a Ph.D. Student in Construction Management Technology at [Purdue University
 
 
 
+<span class='anchor' id='news'></span>
+
 # 🔥 News
 
 - *2026.01*: &nbsp;2026 ASPRS WGL Travel Scholarship
 - *2025.11*: &nbsp;🎉 Best Paper Award at IEEE ICIR 2025
 - *2025.08*: &nbsp;Graduate Scholars Grant 2025 from Illinois-Indiana Sea Grant (IISG)
+
+<span class='anchor' id='publications'></span>
 
 # 📝 Publications 
 
@@ -43,6 +47,8 @@ I am a Ph.D. Student in Construction Management Technology at [Purdue University
 - Research on the Design Method and Application of Building Engineering Based on BIM Forward Design (Central South University, 2022). [Link](https://kns.cnki.net/KCMS/detail/detail.aspx?dbname=CMFDTEMP&filename=1023567346.nh)
 - Integrated IDD, BIM-enabled virtual reality (VR) environments for enhancing 3D visualization over building design and construction Control (National University of Singapore, 2022)
 
+<span class='anchor' id='honors-and-awards'></span>
+
 # 🎖 Honors and Awards
 - *2026.01* 2026 ASPRS WGL Travel Scholarship
 - *2025.11* Best Paper Award — 2025 IEEE 4th International Conference on Intelligent Reality
@@ -54,10 +60,14 @@ I am a Ph.D. Student in Construction Management Technology at [Purdue University
 
 
 
+<span class='anchor' id='education'></span>
+
 # 📖 Education
 - *2024.08 - 2028.05 (expected)*, Ph.D. in Construction Management Technology, Purdue University
 - *2021.08 - 2022.05*, M.S. in Civil Engineering (Structural Engineering), National University of Singapore
 - *2019.09 - 2022.06*, M.Eng. in Engineering Management, Central South University
+
+<span class='anchor' id='research-experience'></span>
 
 # 🔬 Research Experience
 - **Urban-scale 3D Reconstruction for Energy Modeling** — 3D models provide input parameters for energy modeling, enabling simulation of building energy performance and assessment of urban resilience, specifically for UBEM.
@@ -66,6 +76,8 @@ I am a Ph.D. Student in Construction Management Technology at [Purdue University
 - **Digital Construction in Virtual Environment** — Implementing multiplayer configuration in 3D VR environment with collaborative connections using Unity platform for AEC industries.
 - **PPVC Enhanced Lifting Frame FEA Structural Analysis** — Conducted FEA on PPVC Enhanced Lifting Frame, identified optimal frame beam section for lifting PPVC module with reduced weight.
 - **Integrated IDD, BIM-enabled VR for 3D Visualization** — CLP to enhance 3D visualization and communication in VR environment at construction site.
+
+<span class='anchor' id='professional-skills'></span>
 
 # 💻 Professional Skills
 - **Japanese**
