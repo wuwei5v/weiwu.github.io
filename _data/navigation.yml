@@ -23,3 +23,4 @@ main:
 
   - title: "About Daily Me"
     url: "/myself/"
+    target: "_self"
