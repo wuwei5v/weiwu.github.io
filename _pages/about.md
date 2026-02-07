@@ -31,17 +31,31 @@ I am a Ph.D. Student in Construction Management Technology at [Purdue University
 
 # 📝 Publications 
 
-**IEEE ICIR 2025** (Best Paper Award)
+<div class='paper-box'>
+<div class='paper-box-image'>
+<div><div class="badge">IEEE ICIR 2025</div><img src='/images/icir-2025.png' alt="AI-Enhanced Rapid 3D Coastal Reconstruction" style="width:500px;height:300px;object-fit:cover;" onerror="this.src='/images/500x300.png'"></div>
+</div>
+<div class='paper-box-text' markdown="1">
 
 [AI-Enhanced Rapid 3D Coastal Reconstruction with Immersive Visualization for Resilient Communities: A Conceptual Framework Study]()
 
-**Wei Wu** et al.
+**Wei Wu** et al. — *Best Paper Award*
 
-**ACM BuildSys 2026** (Under Review)
+</div>
+</div>
+
+<div class='paper-box'>
+<div class='paper-box-image'>
+<div><div class="badge">ACM BuildSys 2026</div><img src='/images/scan2ubem.png' alt="Scan2UBEM" style="width:500px;height:300px;object-fit:cover;" onerror="this.src='/images/500x300.png'"></div>
+</div>
+<div class='paper-box-text' markdown="1">
 
 [Scan2UBEM: An AI-driven End-to-End Pipeline for Automated Urban Building Energy Modeling from 3D Scans]()
 
-**Wei Wu** et al. — *The 13th ACM International Conference on Systems for Energy-Efficient Buildings, Cities, and Transportation, 2026 Banff, Alberta, Canada*
+**Wei Wu** et al. — *The 13th ACM International Conference on Systems for Energy-Efficient Buildings, Cities, and Transportation, 2026 Banff, Alberta, Canada* (Under Review)
+
+</div>
+</div>
 
 **Master Theses**
 - Research on the Design Method and Application of Building Engineering Based on BIM Forward Design (Central South University, 2022). [Link](https://kns.cnki.net/KCMS/detail/detail.aspx?dbname=CMFDTEMP&filename=1023567346.nh)
