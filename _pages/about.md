@@ -17,8 +17,6 @@ I am a Ph.D. Student in Construction Management Technology at [Purdue University
 * BIM-enabled VR environments for construction visualization
 * Prevention through Advanced Immersive Technologies Design (PtATD)
 
-**Contact:** [wu2424@purdue.edu](mailto:wu2424@purdue.edu) · +1 765 409 0749 · 2429 Neil Armstrong Dr, West Lafayette, IN 47906, USA
-
 # 🔥 News
 - *2025.11*: &nbsp;🎉 Best Paper Award at IEEE ICIR 2025
 - *2025.08*: &nbsp;Graduate Scholars Grant 2025 from Illinois-Indiana Sea Grant (IISG)
