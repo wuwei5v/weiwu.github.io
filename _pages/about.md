@@ -1,7 +1,7 @@
 ---
 permalink: /
 title: "Wei Wu"
-excerpt: "PhD Candidate in Construction Management Technology at Purdue University"
+excerpt: "PhD Student in Construction Management Technology at Purdue University"
 author_profile: true
 redirect_from: 
   - /about/
@@ -10,7 +10,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am a Ph.D. Candidate in Construction Management Technology at [Purdue University](https://www.purdue.edu/). My research interests include:
+I am a Ph.D. Student in Construction Management Technology at [Purdue University](https://www.purdue.edu/). My research interests include:
 
 * Urban-scale 3D reconstruction for energy modeling
 * NeRF 3D reconstruction for building inspection
@@ -35,7 +35,7 @@ I am a Ph.D. Candidate in Construction Management Technology at [Purdue Universi
 
 [Scan2UBEM: An AI-driven End-to-End Pipeline for Automated Urban Building Energy Modeling from 3D Scans]()
 
-**Wei Wu** et al. — *The 13th ACM International Conference on Systems for Energy-Efficient Buildings, Cities, and Transportation, June 22–25, 2026, Banff, Alberta, Canada*
+**Wei Wu** et al. — *The 13th ACM International Conference on Systems for Energy-Efficient Buildings, Cities, and Transportation, 2026 Banff, Alberta, Canada*
 
 **Master Theses**
 - Research on the Design Method and Application of Building Engineering Based on BIM Forward Design (Central South University, 2022). [Link](https://kns.cnki.net/KCMS/detail/detail.aspx?dbname=CMFDTEMP&filename=1023567346.nh)
@@ -48,16 +48,16 @@ I am a Ph.D. Candidate in Construction Management Technology at [Purdue Universi
 - *2018.11* Second-class Prize, Medical BIM Application — 9th Innovation Cup BIM Application Competition
 - *2018.11* Second-class Prize, Design Group — 7th National BIM Competition
 - *2016.06* Second-class Prize — 2nd National BIM Graduation Design Competition
-- *2014.05* First-class Prize, Non-professional Group — HCU English Speech Contest
-- *2013.05* Third-class Prize — 10th HCU Structural Model Creation and Design Competition
+
+
 
 # 📖 Education
-- *2024.08 - 2028.05 (expected)*, Ph.D. in Construction Management Technology, Purdue University, GPA: 4.0/4.0
-- *2021.08 - 2022.05*, M.S. in Civil Engineering (Structural Engineering), National University of Singapore, GPA: 3.5
-- *2019.09 - 2022.06*, M.Eng. in Engineering Management, Central South University, GPA: 3.32/4.0
+- *2024.08 - 2028.05 (expected)*, Ph.D. in Construction Management Technology, Purdue University
+- *2021.08 - 2022.05*, M.S. in Civil Engineering (Structural Engineering), National University of Singapore
+- *2019.09 - 2022.06*, M.Eng. in Engineering Management, Central South University
 
 # 🔬 Research Experience
-- **Urban-scale 3D Reconstruction for Energy Modeling** — 3D models provide input parameters for energy modeling, enabling simulation of building energy performance and assessment of urban resilience.
+- **Urban-scale 3D Reconstruction for Energy Modeling** — 3D models provide input parameters for energy modeling, enabling simulation of building energy performance and assessment of urban resilience, specifically for UBEM.
 - **NeRF 3D Reconstruction for Enhanced Building Inspection** — Developing innovative approaches in 3D reconstruction combined with advanced modeling technologies for improved building facade inspection.
 - **Prevention through Advanced Immersive Technologies Design (PtATD)** — Investigating how immersive technologies can enhance the design process and evaluation of design review performance in VR environment.
 - **Digital Construction in Virtual Environment** — Implementing multiplayer configuration in 3D VR environment with collaborative connections using Unity platform for AEC industries.
@@ -65,5 +65,6 @@ I am a Ph.D. Candidate in Construction Management Technology at [Purdue Universi
 - **Integrated IDD, BIM-enabled VR for 3D Visualization** — CLP to enhance 3D visualization and communication in VR environment at construction site.
 
 # 💻 Professional Skills
+- **Japanese**
 - **English:** IELTS 6.5 · CET-6 · GRE 324/3.5
 - **Software:** Revit, AutoCAD, Blender, Unity, Python, ABAQUS, STAADPRO, SAP2000, ETABS, SAS, R Studio, and more
