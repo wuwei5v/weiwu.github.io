@@ -1,0 +1,9 @@
+# Myself 页面独立配置 - 与主站 about 分离
+# 可在此自定义 sidebar、样式变量等
+
+sidebar:
+  show_author: true
+  avatar: "/images/Wei Wu Photo512x512.png"
+  name: "Wei Wu (William) 伍威"
+  bio: "Daily Life & Personal"
+  # 可添加 myself 页面特有的 sidebar 链接等

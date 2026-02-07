@@ -1,0 +1,14 @@
+{% assign myself = site.data.myself.sidebar %}
+{% if myself.show_author %}
+<div class="sidebar sticky sidebar--myself">
+  <div itemscope itemtype="http://schema.org/Person" class="profile_box">
+    <div class="author__avatar">
+      <img src="{{ myself.avatar | default: '/images/Wei Wu Photo512x512.png' }}" class="author__avatar" alt="{{ myself.name }}">
+    </div>
+    <div class="author__content">
+      <h3 class="author__name">{{ myself.name }}</h3>
+      {% if myself.bio %}<p class="author__bio">{{ myself.bio }}</p>{% endif %}
+    </div>
+  </div>
+</div>
+{% endif %}

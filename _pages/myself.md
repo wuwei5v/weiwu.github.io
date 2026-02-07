@@ -2,8 +2,7 @@
 permalink: /myself/
 title: "About Daily Me"
 excerpt: "Personal introduction"
-author_profile: true
-layout: default
+layout: myself
 ---
 
 Write something about yourself here.

@@ -1,16 +1,20 @@
-# main links - 锚点ID需与 about.md 中的 id 一致
+# main links - 全部使用 target="_self" 避免新窗口弹出
 main:
   - title: "About Academic Me"
     url: "/#about-me"
+    target: "_self"
 
   - title: "News"
     url: "/#news"
+    target: "_self"
 
   - title: "Publications"
     url: "/#publications"
+    target: "_self"
 
   - title: "Honors and Awards"
     url: "/#honors-and-awards"
+    target: "_self"
 
   - title: "About Daily Me"
     url: "/myself/"
