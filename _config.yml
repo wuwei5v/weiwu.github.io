@@ -6,8 +6,8 @@
 # `jekyll serve`. If you change this file, please restart the server process.
 
 # Site Settings
-title                    : "Wei Wu - Academic CV"
-description              : "Wei Wu's academic portfolio - PhD Candidate in Construction Management Technology at Purdue University"
+title                    : "Wei Wu - Academic Homepage"
+description              : "A multitasking researcher mainly focus on UBEM and 3D reconstruction, LLM, AI-agent"
 repository               : "wuwei5v/weiwu.github.io"
 google_scholar_stats_use_cdn : true
 
