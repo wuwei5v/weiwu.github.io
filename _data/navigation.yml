@@ -12,15 +12,6 @@ main:
   - title: "Honors and Awards"
     url: "/#honors-and-awards"
 
-  - title: "Education"
-    url: "/#education"
-
-  - title: "Research Experience"
-    url: "/#research-experience"
-
-  - title: "Professional Skills"
-    url: "/#professional-skills"
-
   - title: "About Daily Me"
     url: "/myself/"
     target: "_self"
