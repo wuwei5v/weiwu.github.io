@@ -10,7 +10,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am a Ph.D. Student in Construction Management Technology at [Purdue University](https://www.purdue.edu/). My research interests include:
+I am a Ph.D. Student in Construction Management Technology at [Purdue University](https://polytechnic.purdue.edu/newsroom/purdue-polytechnic-phd-student-wins-ieee-best-paper-award-and-sea-grant-scholarship). My research interests include:
 
 * Urban-scale 3D reconstruction for energy modeling
 * NeRF 3D reconstruction for building inspection
@@ -21,7 +21,7 @@ I am a Ph.D. Student in Construction Management Technology at [Purdue University
 
 # 🔥 News
 
-- *2026.01*: &nbsp;🎉 2026 ASPRS WGL Travel Scholarship
+- *2026.01*: &nbsp;2026 ASPRS WGL Travel Scholarship
 - *2025.11*: &nbsp;🎉 Best Paper Award at IEEE ICIR 2025
 - *2025.08*: &nbsp;Graduate Scholars Grant 2025 from Illinois-Indiana Sea Grant (IISG)
 
