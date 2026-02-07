@@ -5,4 +5,19 @@ excerpt: "Personal introduction"
 layout: myself
 ---
 
-Write something about yourself here.
+# About Daily Me
+
+I am a Christian. My faith is central to my life — I find peace and purpose in believing in God and walking with Him each day.
+
+**Faith & Spiritual Life**
+- I enjoy reading the Bible and reflecting on Scripture
+- I regularly listen to sermons and teachings to grow in my understanding
+- Church community and fellowship are important to me
+
+**Music**
+Music is both a passion and a way to worship. I play the guitar and piano, and I love spending time practicing and exploring new pieces.
+
+**Languages**
+I have a genuine interest in learning languages. Whether it's improving my English, exploring new tongues, or connecting with people across cultures, I find the process of language learning rewarding and enriching.
+
+---
