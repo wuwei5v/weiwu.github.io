@@ -20,6 +20,6 @@ I play the guitar and piano, and I love spending time practicing and exploring n
 I sometimes play badminton, table tennis, and basketball, and I work out when I am free.
 
 **Languages**
-I am interested in learning languages, such Japanese. Whether it's improving my English, exploring new tongues, or connecting with people across cultures, I find the process of language learning rewarding and enriching.
+I am interested in learning languages, such as Japanese. Whether it's improving my English, exploring new tongues, or connecting with people across cultures, I find the process of language learning rewarding and enriching.
 
 ---
