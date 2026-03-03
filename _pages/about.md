@@ -24,7 +24,7 @@ I am a Ph.D. Student in Construction Management Technology at [Purdue University
 # 🔥 News
 
 - *2026.03*: &nbsp;🎉 Selected Presenter & Awarded Travel Grant, CRSE Workshop. American Statistical Association.
-- *2026.02*: &nbsp; Attending GeoWeek 2026
+- *2026.02*: &nbsp; Attend GeoWeek 2026
 - *2026.01*: &nbsp;🎉 2026 ASPRS WGL Travel Scholarship
 - *2025.11*: &nbsp;🎉 Best Paper Award at IEEE ICIR 2025
 - *2025.08*: &nbsp;Graduate Scholars Grant 2025 from Illinois-Indiana Sea Grant (IISG)
