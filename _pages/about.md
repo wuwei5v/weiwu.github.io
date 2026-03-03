@@ -80,9 +80,9 @@ I am a Ph.D. Student in Construction Management Technology at [Purdue University
 <span class='anchor' id='education'></span>
 
 # 📖 Education
-- *2024.08 - 2027.12 (expected)*, Ph.D. in Construction Management Technology, Purdue University <img src="https://www.purdue.edu/favicon.ico" alt="Purdue logo" style="height:18px; width:18px; vertical-align:middle; margin-left:6px;">
-- *2021.08 - 2022.05*, M.S. in Civil Engineering (Structural Engineering)((Later enrolled as Master of Engineering by Research with funding)), National University of Singapore <img src="https://www.nus.edu.sg/favicon.ico" alt="NUS logo" style="height:18px; width:18px; vertical-align:middle; margin-left:6px;">
-- *2019.09 - 2022.06*, M.Eng. in Engineering Management, Central South University <img src="https://www.csu.edu.cn/favicon.ico" alt="CSU logo" style="height:18px; width:18px; vertical-align:middle; margin-left:6px;">
+- *2024.08 - 2027.12 (expected)*, Ph.D. in Construction Management Technology, Purdue University <img src="/images/schools/PU-V-logo.jpg" alt="Purdue logo" style="height:20px; width:auto; max-width:72px; object-fit:contain; vertical-align:middle; margin-left:6px;">
+- *2021.08 - 2022.05*, M.S. in Civil Engineering (Structural Engineering)((Later enrolled as Master of Engineering by Research with funding)), National University of Singapore <img src="/images/schools/NUS_logo_full-horizontal.jpg" alt="NUS logo" style="height:20px; width:auto; max-width:72px; object-fit:contain; vertical-align:middle; margin-left:6px;">
+- *2019.09 - 2022.06*, M.Eng. in Engineering Management, Central South University <img src="/images/schools/CSUfavicon.png" alt="CSU logo" style="height:20px; width:auto; max-width:72px; object-fit:contain; vertical-align:middle; margin-left:6px;">
 
 <span class='anchor' id='research-experience'></span>
 
