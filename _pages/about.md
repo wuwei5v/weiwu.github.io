@@ -81,7 +81,7 @@ I am a Ph.D. Student in Construction Management Technology at [Purdue University
 
 # 📖 Education
 - *2024.08 - 2027.12 (expected)*, Ph.D. in Construction Management Technology, Purdue University
-- *2021.08 - 2022.05*, M.S. in Civil Engineering (Structural Engineering), National University of Singapore
+- *2021.08 - 2022.05*, M.S. in Civil Engineering (Structural Engineering)((Later enrolled as Master of Engineering by Research with funding)), National University of Singapore, 
 - *2019.09 - 2022.06*, M.Eng. in Engineering Management, Central South University
 
 <span class='anchor' id='research-experience'></span>
