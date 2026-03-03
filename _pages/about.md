@@ -23,6 +23,8 @@ I am a Ph.D. Student in Construction Management Technology at [Purdue University
 
 # 🔥 News
 
+- *2026.03*: &nbsp;🎉 Selected Presenter & Awarded Travel Grant, CRSE Workshop. American Statistical Association.
+- *2026.02*: &nbsp; Attending GeoWeek 2026
 - *2026.01*: &nbsp;🎉 2026 ASPRS WGL Travel Scholarship
 - *2025.11*: &nbsp;🎉 Best Paper Award at IEEE ICIR 2025
 - *2025.08*: &nbsp;Graduate Scholars Grant 2025 from Illinois-Indiana Sea Grant (IISG)
@@ -64,6 +66,7 @@ I am a Ph.D. Student in Construction Management Technology at [Purdue University
 <span class='anchor' id='honors-and-awards'></span>
 
 # 🎖 Honors and Awards
+- *2026.03* 2026 CRSE Workshop Selected Oral Presenter & Awarded Travel Grant- University of Pennsylvania.
 - *2026.01* 2026 ASPRS WGL Travel Scholarship
 - *2025.11* Best Paper Award — 2025 IEEE 4th International Conference on Intelligent Reality
 - *2025.08* Graduate Scholars Grant 2025 — Illinois-Indiana Sea Grant (IISG), funding support for doctoral research
