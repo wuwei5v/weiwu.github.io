@@ -67,7 +67,7 @@ I am a Ph.D. Student in Construction Management Technology at [Purdue University
 
 # 🎖 Honors and Awards
 - *2026.03* 2026 CRSE Workshop Selected Oral Presenter & Awarded Travel Grant - University of Pennsylvania.
-- *2026.01* 2026 ASPRS WGL Travel Scholarship - $2500
+- *2026.01* 2026 ASPRS WGL Travel Scholarship 
 - *2025.11* Best Paper Award — 2025 IEEE 4th International Conference on Intelligent Reality
 - *2025.08* Graduate Scholars Grant 2025 — Illinois-Indiana Sea Grant (IISG), funding support for doctoral research
 - *2018.12* First-class Prize, Design Group — 2nd BIM Technology Application Competition in Hunan Province
