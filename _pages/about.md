@@ -99,5 +99,6 @@ I am a Ph.D. Student in Construction Management Technology at [Purdue University
 # 💻 Professional Skills
 - **Japanese**
 - **Cantonese**
+- **Chinese**
 - **English:** IELTS 6.5 · CET-6 · GRE 324/3.5
 - **Software:** Revit, AutoCAD, Blender, Unity, Python, ABAQUS, STAADPRO, SAP2000, ETABS, SAS, R Studio, and more
