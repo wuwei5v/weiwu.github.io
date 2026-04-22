@@ -25,7 +25,7 @@ I am a Ph.D. Student in Construction Management Technology at [Purdue University
 
 - *2026.04*: &nbsp;🎉 Paper accepted at ACM BuildSys 2026 (acceptance rate: 30%)
 - *2026.03*: &nbsp;🎉 Selected Presenter & Awarded Travel Grant, CRSE Workshop. American Statistical Association.
-- *2026.03*: &nbsp;🎉 FAA Part 107 Remote Pilot Certificate
+- *2026.03*: &nbsp;🎉 Issued FAA Part 107 Remote Pilot Certificate
 - *2026.02*: &nbsp; Attend GeoWeek 2026
 - *2026.01*: &nbsp;🎉 2026 ASPRS WGL Travel Scholarship
 - *2025.11*: &nbsp;🎉 Best Paper Award at IEEE ICIR 2025

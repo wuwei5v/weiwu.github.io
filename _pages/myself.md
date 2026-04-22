@@ -14,12 +14,12 @@ My faith is central to my life — I find peace and purpose in believing in God 
 - I regularly listen to sermons and teachings to grow in my understanding
 
 **Music**
-I play the guitar and piano, and I love spending time practicing and exploring new pieces. Music is also both a passion and a way to worship.
+I play the guitar and piano, saxophone and I love spending time practicing and exploring new pieces. Music is also both a passion and a way to worship.
 
 **Excercise**
 I sometimes play badminton, table tennis, and basketball, and I work out when I am free.
 
 **Languages**
-I am interested in learning languages, such as Japanese, Cantonese. Whether it's improving my English, exploring new tongues, or connecting with people across cultures, I find the process of language learning rewarding and enriching.
+I am interested in learning languages, such as Japanese, Cantonese. Whether it's improving my language ability, exploring new tongues, or connecting with people across cultures, I find the process of language learning rewarding and enriching.
 
 ---
