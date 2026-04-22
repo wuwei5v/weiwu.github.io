@@ -23,6 +23,7 @@ I am a Ph.D. Student in Construction Management Technology at [Purdue University
 
 # 🔥 News
 
+- *2026.04*: &nbsp;🎉 Paper accepted at ACM BuildSys 2026 (acceptance rate: 30%)
 - *2026.03*: &nbsp;🎉 Selected Presenter & Awarded Travel Grant, CRSE Workshop. American Statistical Association.
 - *2026.02*: &nbsp; Attend GeoWeek 2026
 - *2026.01*: &nbsp;🎉 2026 ASPRS WGL Travel Scholarship
@@ -35,13 +36,13 @@ I am a Ph.D. Student in Construction Management Technology at [Purdue University
 
 <div class='paper-box'>
 <div class='paper-box-image'>
-<div><div class="badge">ACM BuildSys 2026</div><img src='/images/scan2ubem.png' alt="Scan2UBEM" style="width:500px;height:300px;object-fit:cover;" onerror="this.src='/images/500x300.png'"></div>
+<div><div class="badge">ACM BuildSys 2026</div><img src='/images/image222.png' alt="Scan2UBEM" style="width:500px;height:300px;object-fit:cover;" onerror="this.src='/images/500x300.png'"></div>
 </div>
 <div class='paper-box-text' markdown="1">
 
 [Scan2UBEM: An AI-driven End-to-End Pipeline for Automated Urban Building Energy Modeling from 3D Scans]()
 
-**Wei Wu** et al. — *The 13th ACM International Conference on Systems for Energy-Efficient Buildings, Cities, and Transportation, 2026 Banff, Alberta, Canada* (Under Review)
+**Wei Wu** et al. — *The 13th ACM International Conference on Systems for Energy-Efficient Buildings, Cities, and Transportation, 2026 Banff, Alberta, Canada* (Accepted, acceptance rate: 30%)
 
 </div>
 </div>
