@@ -23,6 +23,7 @@ I am a Ph.D. Student in Construction Management Technology at [Purdue University
 
 # 🔥 News
 
+- *2026.05*: &nbsp;🎉 Awarded ACM SIGs Student Travel Grant
 - *2026.04*: &nbsp;🎉 Paper accepted at ACM BuildSys 2026
 - *2026.03*: &nbsp;🎉 Selected Presenter & Awarded Travel Grant, CRSE Workshop. American Statistical Association.
 - *2026.03*: &nbsp;🎉 Issued FAA Part 107 Remote Pilot Certificate
