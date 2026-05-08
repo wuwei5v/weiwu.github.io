@@ -69,6 +69,7 @@ I am a Ph.D. Student in Construction Management Technology at [Purdue University
 <span class='anchor' id='honors-and-awards'></span>
 
 # 🎖 Honors and Awards
+- *2026.05* ACM SIGs Student Travel Grant
 - *2026.03* 2026 CRSE Workshop Selected Oral Presenter & Awarded Travel Grant - University of Pennsylvania.
 - *2026.01* 2026 ASPRS WGL Travel Scholarship 
 - *2025.11* Best Paper Award — 2025 IEEE 4th International Conference on Intelligent Reality
