@@ -46,6 +46,8 @@ I am a Ph.D. Student in Construction Management Technology at [Purdue University
 
 **Wei Wu** et al. — *Automation in Construction* (soon to submit)
 
+</div>
+</div>
 
 <div class='paper-box'>
 <div class='paper-box-image'>
