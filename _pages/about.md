@@ -34,7 +34,7 @@ I am a Ph.D. Student in Construction Management Technology at [Purdue University
 
 <span class='anchor' id='publications'></span>
 
-# 📝 Publications 
+# 📝 Publications (First & Corresponding Author)
 
 <div class='paper-box'>
 <div class='paper-box-image'>
