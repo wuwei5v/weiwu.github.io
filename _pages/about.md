@@ -38,6 +38,17 @@ I am a Ph.D. Student in Construction Management Technology at [Purdue University
 
 <div class='paper-box'>
 <div class='paper-box-image'>
+<div><div class="badge">Automation in Construction</div><img src='' alt="Scan2UBEM" style="width:500px;height:300px;object-fit:cover;" onerror="this.src='/images/500x300.png'"></div>
+</div>
+<div class='paper-box-text' markdown="1">
+
+[Scan2UBEM: An AI-driven End-to-End Pipeline Towards Automated Urban Building Energy Modeling from 3D Scans]()
+
+**Wei Wu** et al. — *Automation In Construction* (soon to submit)
+
+
+<div class='paper-box'>
+<div class='paper-box-image'>
 <div><div class="badge">ACM BuildSys 2026</div><img src='/images/image222.png' alt="Scan2UBEM" style="width:500px;height:300px;object-fit:cover;" onerror="this.src='/images/500x300.png'"></div>
 </div>
 <div class='paper-box-text' markdown="1">
