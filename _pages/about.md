@@ -10,12 +10,8 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am a Ph.D. Student in Construction Management Technology at [Purdue University](https://polytechnic.purdue.edu/newsroom/purdue-polytechnic-phd-student-wins-ieee-best-paper-award-and-sea-grant-scholarship). My research interests include:
-
-* Urban-scale 3D reconstruction for energy modeling
-* NeRF 3D reconstruction for building inspection
-* BIM-enabled VR environments for construction visualization
-* Prevention through Advanced Immersive Technologies Design (PtATD)
+I am a Ph.D. Student in Construction Management Technology at [Purdue University](https://polytechnic.purdue.edu/newsroom/purdue-polytechnic-phd-student-wins-ieee-best-paper-award-and-sea-grant-scholarship). My research interests include: 
+UAV / satellite / scan-based 3D reconstruction → urban/coastal/building-scale digital model → UBEM / resilience / immersive decision support.
 
 
 
