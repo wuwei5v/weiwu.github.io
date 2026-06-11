@@ -60,7 +60,7 @@ UAV / satellite / scan-based 3D reconstruction → urban/coastal/building-scale 
 
 <div class='paper-box'>
 <div class='paper-box-image'>
-<div><div class="badge">IEEE ICIR 2025</div><img src='/images/icir-2025.png' alt="AI-Enhanced Rapid 3D Coastal Reconstruction" style="width:500px;height:300px;object-fit:cover;" onerror="this.src='/images/500x300.png'"></div>
+<div><div class="badge">IEEE ICIR 2025</div><img src='/images/icir-20251.png' alt="AI-Enhanced Rapid 3D Coastal Reconstruction" style="width:500px;height:300px;object-fit:cover;" onerror="this.src='/images/500x300.png'"></div>
 </div>
 <div class='paper-box-text' markdown="1">
 
