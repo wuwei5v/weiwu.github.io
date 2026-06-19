@@ -51,7 +51,7 @@ UAV / satellite / scan-based 3D reconstruction → urban/coastal/building-scale 
 </div>
 <div class='paper-box-text' markdown="1">
 
-[Scan2UBEM: An AI-driven End-to-End Pipeline Towards Automated Urban Building Energy Modeling from 3D Scans](https://buildsys.acm.org/2026/program/)
+[Scan2UBEM: An AI-driven End-to-End Pipeline Towards Automated Urban Building Energy Modeling from 3D Scans](https://dl.acm.org/doi/10.1145/3744256.3812572)
 
 **Wei Wu** et al. — *The 13th ACM International Conference on Systems for Energy-Efficient Buildings, Cities, and Transportation, 2026 Banff, Alberta, Canada* (Accepted, acceptance rate: 30%)
 
