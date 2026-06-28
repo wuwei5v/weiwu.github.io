@@ -19,6 +19,7 @@ UAV / satellite / scan-based 3D reconstruction → urban/coastal/building-scale 
 
 # 🔥 News
 
+- *2026.06*: &nbsp; Attend ACM BuildSys2026
 - *2026.05*: &nbsp;🎉 Awarded ACM SIGs Student Travel Grant
 - *2026.04*: &nbsp;🎉 Paper accepted at ACM BuildSys 2026
 - *2026.03*: &nbsp;🎉 Selected Presenter & Awarded Travel Grant, CRSE Workshop. American Statistical Association.
